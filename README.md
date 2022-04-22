@@ -1,6 +1,6 @@
 # electron-react-template
 
-Este é um template boilerplate para aplicações que utilizarão eléctron + react
+Este é um template boilerplate para aplicações que utilizarão electron + react
 
 ## Instalação
 
