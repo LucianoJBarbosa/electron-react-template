@@ -40,7 +40,7 @@ Para depurar a aplicação:
 Para compilar a aplicação:
 
 ```bash
-  yarn electron:serve
+  yarn electron:build
 ```
 
 
